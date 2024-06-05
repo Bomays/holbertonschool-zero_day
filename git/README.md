@@ -1,1 +1,1 @@
-My first readme by my own
+My first git directory readme
