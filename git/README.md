@@ -1,1 +1,1 @@
-My first git directory readme
+My first git directory readme changed for the last exercice
